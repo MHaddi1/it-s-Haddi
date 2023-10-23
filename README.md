@@ -34,5 +34,5 @@
 
 - :zap: When I'm not fluttering around, I enjoy tackling devouring tech articles.
 
-- :mailbox: You can connect with me on LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-muhammad-haddi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haddi)
+- :mailbox: You can connect with me on LinkedIn: [[LinkedIn Badge](https://img.shields.io/badge/-muhammad-haddi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haddi)
 
