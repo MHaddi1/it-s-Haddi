@@ -27,10 +27,10 @@
 
 ---
 
-### :woman_technologist: About Me : I am a Flutter Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+### :man_technologist: About Me : I am a Flutter Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 - :computer: I'm a Flutter Mobile Developer with a passion for crafting beautiful and functional mobile applications.
 
-- :pencil: Aspiring Technical Content Writer in the realm of Flutter and mobile app development.
+- :pencil: Aspiring mobile app development.
 
 - :zap: When I'm not fluttering around, I enjoy tackling devouring tech articles.
 
